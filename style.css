@@ -1,0 +1,122 @@
+body{
+        font-family: "Madimi One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-image: url(forest.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+        color:antiquewhite;
+        text-align: center;
+}
+.cont{
+    display:flex;
+    flex-wrap: wrap;
+    flex-basis: 20%;
+    justify-content: space-evenly;
+}
+.a{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.b{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.c{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.d{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.e{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.f{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.g{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.h{
+    background-color:black;
+    color:aliceblue;
+    margin:20px;
+    padding:10px;
+    width:min-content;
+    height: fit-content;
+}
+.a:hover{
+   transform: translateY(-30px);
+   background-color:aliceblue;
+   color:black;
+}
+.b:hover{
+    transform: translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+ }
+ .c:hover{
+    transform: translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+ }
+ .d:hover{
+    transform: translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+ }
+ .e:hover{
+    transform: translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+ }
+ .f:hover{
+    transform: translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+ }
+ .g:hover{
+    transform: translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+ }
+ .h:hover{
+    transform:translateY(-30px);
+    background-color:aliceblue;
+    color:black;
+    
+ }
+       
